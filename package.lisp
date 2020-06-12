@@ -9,6 +9,9 @@
    #:send-buffer-data
    ;; Shaders
    #:shader
+   #:shader-id
+   #:shader-vp
+   #:shader-fp
    #:make-shader
    #:bind-shader
    #:unbind-shader
